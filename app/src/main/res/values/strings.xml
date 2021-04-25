@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZuriAssignment</string>
+    <string name="add_one">+</string>
+    <string name="subtract_one">-</string>
+    <string name="counter_textview">0</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
